@@ -30,5 +30,14 @@
     "category": "youtube",
     "subcategory": "computer-science",
     "language": "hindi"
+  },
+  {
+    "name": "GATE Wallah",
+    "description": "Alakh Pandey's YouTube channel GATE Wallah is useful for students who are preparing for the Gate exam and also for core Computer Science subjects",
+    "url": "https://www.youtube.com/@GATEWallah_EE_EC_CS",
+    "category": "youtube",
+    "subcategory": "computer-science",
+    "language": "hindi"
   }
+  
 ]
